@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Ignore raw data and environments
+# data/raw/
+# *.csv
+# *.xlsx
+
+# Ignore requirements file
+requirements.txt
