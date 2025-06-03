@@ -7,3 +7,6 @@ pymongo
 streamlit
 seaborn
 matplotlib
+plotly
+joblib
+os

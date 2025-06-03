@@ -58,7 +58,7 @@ st.markdown("""
 @st.cache_resource
 def load_model():
     try:
-        return joblib.load("C:/Users/LENOVO/Documents/pymodel/customer-churn-prediction/models/best_churn_model.pkl")
+        return joblib.load("models/best_churn_model.pkl")
     except FileNotFoundError:
         st.error("⚠️ Model file not found. Please check the file path.")
         return None
