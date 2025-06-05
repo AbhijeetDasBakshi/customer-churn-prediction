@@ -158,12 +158,14 @@ The project supports multiple data sources:
 
 ## 📊 Data Sources
 
-The project uses telecommunications customer data with features including:
+The project uses telecommunications customer data from kaggle with features including:
 - Customer account information
 - Demographic details
 - Service subscriptions
 - Billing and payment data
 - Usage statistics
+  
+[Data Source](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/)
 
 ## 🤝 Contributing
 
